@@ -1,6 +1,8 @@
-# Hiss Incantation Randomizer
+Hiss Incantation Randomizer
+===========================
+
 The goal of this project is to create a system that randomizes/generates output from the Hiss Incantation
-in the same way that various Lorem Ipsum generators operate.
+in the same way that various Lorem Ipsum generators operate. *(Model after [loremipsum.io]?)*
 
 ## Hiss Incantation?
 The Hiss Incantation is a poem used in the video game [Control]. 
@@ -58,6 +60,39 @@ It is also stored in [incantation.txt].
 > You want to hurt.
 > You don’t want to be.
 
+---
+
+# Project Plan
+| Milestone      | Description    | Issue Key / Status |
+| -------------- | -------------- | :----------------: |
+| User Stories   | Write up user stories describing the expected experience for each feature. | To Do |
+| Framework(s)   | Determine which framework(s) must be used to achieve the desired user experience. | To Do |
+| Interaction Design | Mock up any required user interfaces and document intended use-case. | To Do |
+| Test Cases     | Define unit tests and other test cases to use to evaluate system behavior. | To Do |
+| Alpha Test     | Evaluate basic functionality and establish proof of concept. | To Do |
+| Beta Release   | Release beta version - validate full functionality. | To Do |
+| Optimize Design | Identify "difficult to use" activities and optimize design to reduce difficulty. | To Do |
+| Release        | v1 Release | To Do |
+
+## User Stories
+**TO DO**
+
+*Use [Atlassian User Stories with Examples and Templates] and/or [Scaled Agile User Story] as a template and starting place.*
+
+## Framework(s)
+It will likely be easiest to implement this project as a [GitHub Pages] project. This should still 
+be validated to ensure there is not another alternative that meets the project needs. To effectively 
+determine which framework/platform would be best for this project, the project needs must be described in full.
+
+### Project Needs
+**TO DO**
+* REST API for scripted generation
+* Web Page for manual generation
+
 [Control]: https://controlgame.com/
 [Control Fandom Wiki]: https://control.fandom.com/wiki/Hiss_incantation
-[incantation.txt]: https://github.com/jldubz/Hiss-Incantation/incantation.txt
+[incantation.txt]: ./incantation.txt
+[GitHub Pages]: https://pages.github.com/
+[loremipsum.io]: https://loremipsum.io/
+[Atlassian User Stories with Examples and Templates]: https://www.atlassian.com/agile/project-management/user-stories
+[Scaled Agile User Story]: https://www.scaledagileframework.com/story/
