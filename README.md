@@ -89,6 +89,9 @@ determine which framework/platform would be best for this project, the project n
 * REST API for scripted generation
 * Web Page for manual generation
 
+---
+*Social preview image sourced from [Leonardo Calamati Control Concept Art]*
+
 [Control]: https://controlgame.com/
 [Control Fandom Wiki]: https://control.fandom.com/wiki/Hiss_incantation
 [incantation.txt]: ./incantation.txt
@@ -96,3 +99,4 @@ determine which framework/platform would be best for this project, the project n
 [loremipsum.io]: https://loremipsum.io/
 [Atlassian User Stories with Examples and Templates]: https://www.atlassian.com/agile/project-management/user-stories
 [Scaled Agile User Story]: https://www.scaledagileframework.com/story/
+[Leonardo Calamati Control Concept Art]: https://alihai.artstation.com/projects/5823vg
